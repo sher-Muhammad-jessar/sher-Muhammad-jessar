@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
 <h3 align="center">Passionate software engineer adept at crafting elegant solutions in Java and C++</h3>
 
-<img align="right" alt="coding" width="200" src="![image](https://github.com/sher-Muhammad-jessar/sher-Muhammad-jessar/assets/154434498/0f7a393e-05db-44a8-9a16-3011fd224dc7)
-.gif">
+<img align="right" alt="coding" width="200" src="https://pin.it/6qGnHXlMS">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sher-muhammad-jessar&label=Profile%20views&color=0e75b6&style=flat" alt="sher-muhammad-jessar" /> </p>
