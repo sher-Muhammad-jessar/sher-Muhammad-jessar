@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
 <h3 align="center">Passionate software engineer adept at crafting elegant solutions in Java and C++</h3>
 
-< img align="left" alt="cpding" width=400  src="![image](https://github.com/sher-Muhammad-jessar/sher-Muhammad-jessar/assets/154434498/f3ab66fa-e94e-417c-a12d-3c9aba42c159)
-">
+  src=![image](https://github.com/sher-Muhammad-jessar/sher-Muhammad-jessar/assets/154434498/f3ab66fa-e94e-417c-a12d-3c9aba42c159)
+
 
 
 
