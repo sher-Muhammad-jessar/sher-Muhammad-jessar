@@ -1,7 +1,13 @@
+>
+<img align="center" alt="codeing" width=1000 src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg">
+
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
 <h3 align="center">Passionate software engineer adept at crafting elegant solutions in Java and C++</h3>
 
-<img align="right" alt="code" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="codeing" width=500 src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="center" alt="coder" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sher-muhammad-jessar&label=Profile%20views&color=0e75b6&style=flat" alt="sher-muhammad-jessar" /> </p>
