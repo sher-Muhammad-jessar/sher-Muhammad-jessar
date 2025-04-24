@@ -1,7 +1,7 @@
 <img align="center" alt="codeing" width=1000 src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg">
 
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
-<h3 align="center">Passionate software engineer adept at crafting elegant solutions in Java and C++</h3>
+<h3 align="center">Aspiring Data Scientist | Passionate about solving real-world problems with data</h3>
 
 <img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <img align="center" alt="coder" width="500" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
@@ -11,17 +11,18 @@
 
 <p align="left"> <a href="https://twitter.com/sherjessar" target="blank"><img src="https://img.shields.io/twitter/follow/sherjessar?logo=twitter&style=for-the-badge" alt="sherjessar" /></a> </p>
 
-- 🌱 I’m currently learning **frameworks of Java** and exploring **cloud computing** and **data science**.
+- 🌱 I’m currently learning **Data Science** tools and frameworks including **Pandas, NumPy, Scikit-learn, and Matplotlib**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sher-Muhammad-jessar](https://github.com/sher-Muhammad-jessar)
 
 - 📝 I regularly write articles on [https://medium.com/@shermuhammadjessar](https://medium.com/@shermuhammadjessar)
 
-- 💬 Ask me about **C++, JAVA, SEO, cloud technologies, and data science**
+- 💬 Ask me about **Data Cleaning, Visualization, Machine Learning Models, and Python**
 
 - 📫 How to reach me **shermuhammadjessar@gmail.com**
 
-- ⚡ Fun fact **Fun Fact: I can seamlessly switch between the precision of C++, the versatility of Java ☕, and the creativity of front-end development 🌐, crafting a symphony of code across diverse tech landscapes! 🚀**
+- ⚡ Fun fact: **I love exploring insights from data and turning numbers into narratives! 📊📈**
+
 
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
