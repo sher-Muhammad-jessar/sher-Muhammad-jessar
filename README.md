@@ -56,11 +56,21 @@
 - 🧠 Study key topics like **CNNs**, **RNNs**, and **NLP**
 
 ---
+### 💼 Experience
+**Software Engineering Intern** | `Code Soft` | *2023–2024*
+- Developed internal web apps with Node.js & JavaScript
+- Worked on cloud infrastructure with AWS
+- Built and optimized RESTful APIs for internal tools
 
-### 🧠 Projects
-- **Health Data Warehouse** – ETL + SQL + Healthcare analytics
-- **Crop Disease Detection** – Image-based ML classification
-- **Bookstore Manager** – Java + Spring Boot + Search + Payment Gateway
+### 🧩 Featured Projects
+- **Health Analysis Data Warehouse** (2025)  
+  ETL + MySQL + Data Visualization | Optimized querying and schema
+
+- **Bookstore Management System** (2024)  
+  Java + Spring Boot | Integrated payment & product search
+
+- **Pest & Disease Detection System** (2025)  
+  Python + ML | Identified crop issues using image data
 
 ---
 
@@ -72,8 +82,17 @@
 - **Oracle Java Programmer** – Oracle
 
 ---
-
+### 📊 Professional Development
+- AWS Cloud Bootcamp – Hands-on training in cloud services
+- Data Science Internship – Built ETL pipelines and ML models
+- Java Developer Training – Spring Boot, REST APIs, Microservices
+### 🏆 Achievements
+- 🥇 Top 5 – DevFest Hackathon, Hyderabad 2023
+- 🛠️ Lead Developer – AWS Cloud Club Hackathon
+- 🧠 2nd Place – AI/ML Challenge @ TEDx MUET 2024
 ### 📈 GitHub Stats
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sher-muhammad-jessar&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sher-muhammad-jessar&layout=compact&theme=radical" />
