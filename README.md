@@ -61,7 +61,7 @@
 - Developed internal web apps with Node.js & JavaScript
 - Worked on cloud infrastructure with AWS
 - Built and optimized RESTful APIs for internal tools
-
+---
 ### 🧩 Featured Projects
 - **Health Analysis Data Warehouse** (2025)  
   ETL + MySQL + Data Visualization | Optimized querying and schema
@@ -86,6 +86,7 @@
 - AWS Cloud Bootcamp – Hands-on training in cloud services
 - Data Science Internship – Built ETL pipelines and ML models
 - Java Developer Training – Spring Boot, REST APIs, Microservices
+  ---
 ### 🏆 Achievements
 - 🥇 Top 5 – DevFest Hackathon, Hyderabad 2023
 - 🛠️ Lead Developer – AWS Cloud Club Hackathon
