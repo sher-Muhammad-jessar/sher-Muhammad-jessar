@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*ZOGt4cH6lTUK2Kq-rn8dKQ.gif" width="1000" alt="AI Banner"/>
+  <img src="https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg" width="1000" alt="Banner"/>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
 <h3 align="center">📊 Data Science Student | 🤖 ML/DL Explorer | 🔍 Learning to Turn Data into Decisions</h3>
