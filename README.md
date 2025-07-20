@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" width="1000" alt="AI/Data Science Banner"/>
+  <img src="https://i.pinimg.com/736x/76/24/53/7624531c0520e055889026bbfa2358ed.jpg" width="1000" alt="AI/Data Science Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
