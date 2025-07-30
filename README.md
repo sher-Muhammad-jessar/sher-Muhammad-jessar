@@ -1,7 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/76/24/53/7624531c0520e055889026bbfa2358ed.jpg" width="1000" alt="AI/Data Science Banner"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sher Muhammad Jessar</h1>
 <h3 align="center">📊 Data Science Student | 🤖 ML/DL Explorer | 🔍 Learning to Turn Data into Decisions</h3>
